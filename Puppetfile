@@ -44,6 +44,8 @@ github "homebrew",    "2.1.0"
 github "inifile",     "1.4.1", :repo => "puppetlabs/puppetlabs-inifile"
 github "openssl",     "1.0.0"
 github "repository",  "2.4.1"
+github "ruby",        "8.5.4"
+github "sudo",        "1.0.0"
 github "stdlib",      "4.7.0", :repo => "puppetlabs/puppetlabs-stdlib"
 
 # Optional/custom modules. There are tons available at
