@@ -65,11 +65,4 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
-
-  package { 'fish':
-    ensure => latest,
-  } -> file_line { 'fish_shell':
-    path => '/etc/shells',
-    line => '/usr/local/bin/fish',
-  }
 }
