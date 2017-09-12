@@ -1,0 +1,12 @@
+---
+boxen::personal::osx_apps:
+  - intellij-idea
+  - pycharm
+  - rubymine
+  - viscosity
+  - hipchat
+
+boxen::personal::homebrew_packages:
+  - tmux
+  - jq
+  - httpie
