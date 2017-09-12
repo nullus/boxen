@@ -5,6 +5,7 @@ boxen::personal::osx_apps:
   - rubymine
   - viscosity
   - hipchat
+  - firefox
 
 boxen::personal::homebrew_packages:
   - tmux
