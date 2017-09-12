@@ -77,6 +77,9 @@ Now that your boxen is bootstrapped, you can run the following to
 install the default configuration from this repo:
 
 ```
+sudo mkdir -p /opt/boxen
+sudo chown ${USER}:staff /opt/boxen
+git clone git@github.com:nullus/boxen.git /opt/boxen/repo
 cd /opt/boxen/repo
 ./script/boxen
 ```
@@ -123,25 +126,9 @@ If that runs cleanly, you're in good shape.
 
 ## What You Get
 
-This template project provides the following by default:
+This provides the following by default:
 
-* Homebrew
-* Homebrew-Cask
-* Git
-* Hub
-* dnsmasq w/ .dev resolver for localhost
-* rbenv
-* Full Disk Encryption requirement
-* Node.js 0.8
-* Node.js 0.10
-* Node.js 0.12
-* Ruby 1.9.3
-* Ruby 2.0.0
-* Ruby 2.1.8
-* Ruby 2.2.4
-* ack
-* Findutils
-* GNU tar
+FIXME
 
 ## Customizing
 
