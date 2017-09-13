@@ -58,5 +58,4 @@ github "stdlib",      "4.7.0", :repo => "puppetlabs/puppetlabs-stdlib"
 
 github "iterm2",        "1.2.5"
 github "sublime_text",  "1.1.1"
-
 # dev "python"

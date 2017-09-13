@@ -6,6 +6,7 @@ boxen::personal::osx_apps:
   - viscosity
   - hipchat
   - firefox
+  - docker
 
 boxen::personal::homebrew_packages:
   - tmux
