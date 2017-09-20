@@ -5,8 +5,15 @@ boxen::personal::osx_apps:
   - rubymine
   - viscosity
   - hipchat
+  - firefox
+  - docker
+  - keepassx
+  - steam
+  - lifesize
+  - postman
 
 boxen::personal::homebrew_packages:
   - tmux
   - jq
   - httpie
+  - maven
