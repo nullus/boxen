@@ -7,8 +7,13 @@ boxen::personal::osx_apps:
   - hipchat
   - firefox
   - docker
+  - keepassx
+  - steam
+  - lifesize
+  - postman
 
 boxen::personal::homebrew_packages:
   - tmux
   - jq
   - httpie
+  - maven
